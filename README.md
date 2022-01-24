@@ -2,11 +2,11 @@
 
 Aplicação feita em React para gestão de despesas. Parte do curso Ignite da Rocketseat
 
-
+Para visualizar o layout: https://hortigas.github.io/dtmoney/
 
 ## Available Scripts
 
-Para visualizar o projeto: 
+Para visualizar o projeto execute os comandos: 
 
 ### `npm i`
 ### `npm dev`
